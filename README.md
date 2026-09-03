@@ -1,8 +1,7 @@
 <H1> Hi, Friends 👋</H1>
 <div>
-I'm Ferry an Informatics Student<br>
-Networking enthusiast exploring<br>
-Distributed Systems, DTN & Machine Learning.<br>
+<h3>I'm Ferry</h3>
+Informatics Student · Network Engineering Enthusiast<br>
 </div>
 <br>
 <div style="margin-left: 40px;">
