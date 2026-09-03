@@ -1,9 +1,9 @@
-# Hi, I'm Ferry 👋
-
-Informatics Student @ USD
-Networking enthusiast exploring
-Distributed Systems, DTN & Machine Learning.
-
+<H1> Hi, I'm Ferry 👋</H1>
+<div>
+Informatics Student @ USD<br>
+Networking enthusiast exploring<br>
+Distributed Systems, DTN & Machine Learning.<br>
+</div>
 > "If you hungry, just eat!"
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
