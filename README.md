@@ -18,7 +18,6 @@ Currently exploring: <br>
   🤖 Machine Learning <br>
   🛜 IoT<br>
 </div>
-<br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
