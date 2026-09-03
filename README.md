@@ -1,6 +1,7 @@
 # Hi, I'm Ferry 👋
 
 Informatics Student @ USD
+
 Networking enthusiast exploring
 Distributed Systems, DTN & Machine Learning.
 
