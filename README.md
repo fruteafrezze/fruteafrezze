@@ -9,14 +9,6 @@ Informatics Student · Network Engineering Enthusiast<br>
 > "If you hungry, just eat!"
 
 </div>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-<div>
-Currently exploring: <br>
-  🌐 Networking<br>
-  🛰️ Distributed Systems <br>
-  🤖 Machine Learning <br>
-  🛜 IoT<br>
-</div>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 
